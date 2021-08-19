@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.linkpicture.com/q/4884785.jpg">
 
-- 🎓 Pursuing my B.tech with specialization in 'Information Technology'. at Heritage Institute of Technology.
+- 🎓 Pursuing my B.tech with specialization in 'Information Technology' at Heritage Institute of Technology.
 - 🤔 Exploring new technologies and developing software solutions.
 - 🌱 I’m currently learning more about Machine Learning.
 - 😄 Pronouns: He/His.
