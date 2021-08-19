@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/Ayush__jha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ayush__jha_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayush-jha-b9544a19a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayush-jha-b9544a19a" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__runtime_terror__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__runtime_terror__" height="30" width="40" /></a>
+<a href="https://twitter.com/Ayush__jha_" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="Ayush__jha_" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-jha-b9544a19a/" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="ayush-jha-b9544a19a" height="40" width="40" /></a>
+<a href="https://www.instagram.com/__runtime_terror__/" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="__runtime_terror__" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
