@@ -14,7 +14,7 @@
 
 - 🤠 You can also check out my portfolio at [https://ayushjha.live/](https://ayushjha.live/)
 
-- 📫 How to reach me **talktoayushjha81083@gmail.com**
+- 📫 How to reach me **ayushjha81083@gmail.com**
 
 - 😆 Programmer : **A machine that turns coffee into code**
 
