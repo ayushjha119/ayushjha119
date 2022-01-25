@@ -1,5 +1,5 @@
 <a href="https://ayushjha.live/">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="auto" height="700">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="auto" height="600">
 </a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush jha</h1>
 <h3 align="center">Never give up because great things take time !!</h3>
