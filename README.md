@@ -34,9 +34,9 @@
 
 ```JavaScript
 const ayushsoni1010 = {
-  fullName: "Ayush Soni",
+  fullName: "Ayush Jha",
   pronouns: "He/Him",
-  tags: ["Frontend ❤️", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
+  tags: ["Frontend ❤️", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡"],
   askMeAbout: ["Web Development", "Cloud Technology", "Open Source", "APIs", "UI Designing"],
   reachMeOut: ["ayushjha81083@gmail.com"],
   toFindMeUsername: "@ayushjha119"
