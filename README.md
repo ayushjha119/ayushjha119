@@ -4,9 +4,9 @@
 <!-- Short Introduction -->
 <h2 align="left">Hey, I'm Ayush Jha </h2>
 
-<p>👨🏻‍💻This is Ayush Jha, a passionate full-stack developer With over three years of web development experience, I have expertise in creating fast, user-friendly websites using HTML, CSS, JavaScript, C++, SQL, and the MERN stack. Additionally, I possess valuable DevOps experience with tools like Docker, Kubernetes, Redis, and Next.js, aiming to deliver innovative and engaging online experiences.</p>
+<p>👨🏻‍💻Hi there, I'm Ayush Jha, a full-stack developer who loves crafting websites! With more than three years of web development under my belt, I specialize in building speedy, user-friendly sites using HTML, CSS, JavaScript, C++, SQL, and the MERN stack. I also know my way around DevOps tools like Docker, Kubernetes, Redis, and Next.js to bring you fresh and exciting online experiences.</p>
 
-<p>🚀I have extensive experience in Javascript and Typescript, using them professionally and for personal projects. I'm involved in hackathons, open-source contributions, and community building as both a participant and mentor. Additionally, I also lead community initiatives, offer software development sessions, and provide team leadership.</p>
+<p>🚀I've got a lot of hands-on experience with Javascript and Typescript, using them for work and personal projects. I take part in hackathons, contribute to open-source projects, and help build communities as a participant and mentor. On top of that, I lead community projects, host software development sessions, and provide leadership for teams.</p>
 
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
@@ -52,6 +52,7 @@ const ayushsoni1010 = {
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />	
+  <img alt="C++" src="https://img.shields.io/badge/C++-%23007ACC.svg?style=for-the-badge&logo=C++&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>	
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
