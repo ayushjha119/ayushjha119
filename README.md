@@ -8,6 +8,7 @@
 
 <p>🚀I've got a lot of hands-on experience with Javascript and Typescript, using them for work and personal projects. I take part in hackathons, contribute to open-source projects, and help build communities as a participant and mentor. On top of that, I lead community projects, host software development sessions, and provide leadership for teams.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjha119&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjha119" /> </p>
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
